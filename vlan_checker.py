@@ -1,3 +1,5 @@
+# vlan_checker.py
+
 print("Verificador de VLAN")
 print("Escriba 'salir' para terminar.\n")
 
